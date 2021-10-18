@@ -4,7 +4,6 @@ export interface Product {
   category: string;
   price: number;
 }
-
 export const products: Product[] = [
   {
     name: 'Huawei Nova 7i',
